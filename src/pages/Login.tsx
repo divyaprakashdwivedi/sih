@@ -40,7 +40,7 @@ const Login = () => {
           </div>
 
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold text-gray-800 mb-2">Welcome to Agri-Secure</h1>
+            <h1 className="text-3xl font-bold text-gray-800 mb-2">Welcome to Agri-Hedge</h1>
             <p className="text-gray-600">Your trusted partner in agricultural hedging.</p>
           </div>
 
